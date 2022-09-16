@@ -1,4 +1,4 @@
-#WinAuditor
+# WinAuditor
 
 An updated version of the original WinBinaryAudit with a few new features and bug fixes.
 
