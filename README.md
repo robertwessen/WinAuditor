@@ -1,3 +1,8 @@
+#WinAuditor
+
+An updated version of the original WinBinaryAudit with a few new features and bug fixes.
+
+
 # WinBinaryAudit .NET library
 
 This is a .NET library for assessing the security properties of PE/COFF files.
